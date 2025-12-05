@@ -1,6 +1,6 @@
 {
   "settings": {
-    "Shutdown": false,
-    "ShutdownMsg": "Modal Dong Jangan Cuma Morendo 🇧🇷"
+    "Shutdown": true,
+    "ShutdownMsg": "."
   }
 }
